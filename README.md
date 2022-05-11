@@ -1,7 +1,8 @@
 # simple-serial-char-driver
-This driver very useful for new learner 
+This driver very useful for new learner.
+
 In this driver having simple steps for creating ur new driver .
-Let ride the kernel with ur skills
+Lets ride the kernel with ur skills
 
 Steps To Build:
 1. Download the code , and extract the code .
